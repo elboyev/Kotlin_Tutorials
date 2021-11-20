@@ -89,6 +89,6 @@ Learn Kotlin Programming, its basics and Fundamentals from scratch.
     - Dispacthers: Confined dispatcher, Default Dispatcher, and Unconfined Displatcher 
 15. Conclusion 
 
-## Authors 
+## Author
 
-* **Sriyank Siddhartha** 
+* **INTELLISOFT** 
