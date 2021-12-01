@@ -91,4 +91,4 @@ Learn Kotlin Programming, its basics and Fundamentals from scratch.
 
 ## Author
 
-* **INTELLISOFT** 
+* **Elboyev B | INTELLISOFT** 
